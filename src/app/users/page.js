@@ -14,7 +14,7 @@ export default function Users() {
             <IconUser/> User
           </button>
           <button class=" flex items-center gap-2 py-2 px-3 w-[90%]">
-            <IconUsersPlus /> Hak Akses
+            <IconUsersPlus /> Hak Aksess
           </button>
           <button class=" flex items-center gap-2 py-2 px-3  w-[90%] ">
             <IconLogout2 /> Logout
