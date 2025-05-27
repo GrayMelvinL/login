@@ -24,7 +24,7 @@ export default function Users() {
         </div>
       </section>
 
-      <section id="content" class="bg-white w-[85%] p-5">
+      <section id="content" className="bg-white w-[85%] p-5">
         <input
           placeholder="Cari user"
           className="flex w-[98%] h-[5vh] mb-5 p-4 text-[14,5px] border border-gray-300 rounded-[7px]"
